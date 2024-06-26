@@ -1,0 +1,115 @@
+{
+  "videos": [
+    {
+      "caption": "Fire for You",
+      "image": "https://i.ytimg.com/vi/DVOmxLxmXuY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+      "id": 7
+    },
+    {
+      "caption": "Tujhe Bhula Diya",
+      "image": "https://i1.sndcdn.com/artworks-000003835517-8qhqq9-t500x500.jpg",
+      "url": "https://www.youtube.com/embed/-Hb2DeHvvEg",
+      "id": 8
+    },
+    {
+      "caption": "I Told You So",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOv1PQO7d78bcnYKGbkhJJOOooRci9TUwlw&s",
+      "url": "https://www.youtube.com/embed/OJGHoDLk5E4",
+      "id": 10
+    },
+    {
+      "caption": "Neela Nilave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Dzx8HgaAsE-2ydezsHiWMejm0a_opgvFgg&s",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideo": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi songs",
+      "allVideo": [
+        {
+          "caption": "Neela Nilave",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Dzx8HgaAsE-2ydezsHiWMejm0a_opgvFgg&s",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+          "id": 11
+        },
+        {
+          "caption": "Tujhe Bhula Diya",
+          "image": "https://i1.sndcdn.com/artworks-000003835517-8qhqq9-t500x500.jpg",
+          "url": "https://www.youtube.com/embed/-Hb2DeHvvEg",
+          "id": 8
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "English songs",
+      "allVideo": [
+        {
+          "caption": "I Told You So",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOv1PQO7d78bcnYKGbkhJJOOooRci9TUwlw&s",
+          "url": "https://www.youtube.com/embed/OJGHoDLk5E4",
+          "id": 10
+        },
+        {
+          "caption": "Fire for You",
+          "image": "https://i.ytimg.com/vi/DVOmxLxmXuY/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+          "id": 7
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Tujhe Bhula Diya",
+      "url": "https://www.youtube.com/embed/-Hb2DeHvvEg",
+      "timeStamp": "21/06/2024, 09:37:02",
+      "id": 3
+    },
+    {
+      "caption": "Fire for You",
+      "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+      "timeStamp": "21/06/2024, 09:37:06",
+      "id": 4
+    },
+    {
+      "caption": "Fire for You",
+      "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+      "timeStamp": "24/06/2024, 09:40:58",
+      "id": 5
+    },
+    {
+      "caption": "Vinnaithaandi Varuvaayaa",
+      "url": "https://www.youtube.com/embed/bXa-wbiXiOw",
+      "timeStamp": "24/06/2024, 09:41:07",
+      "id": 6
+    },
+    {
+      "caption": "Fire for You",
+      "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+      "timeStamp": "26/06/2024, 09:11:35",
+      "id": 7
+    },
+    {
+      "caption": "Fire for You",
+      "url": "https://www.youtube.com/embed/u4HQevc9JE0",
+      "timeStamp": "26/06/2024, 09:11:46",
+      "id": 8
+    },
+    {
+      "caption": "I Told You So",
+      "url": "https://www.youtube.com/embed/OJGHoDLk5E4",
+      "timeStamp": "26/06/2024, 09:11:50",
+      "id": 9
+    }
+  ]
+}
